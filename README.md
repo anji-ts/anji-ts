@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anji
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning dapp development
-- 💞️ I’m looking to collaborate on dapp projects
+- 🌱 I’m currently learning Software development
 - 📫 How to reach me @linkedin.com/in/anjits
 
 <!---
